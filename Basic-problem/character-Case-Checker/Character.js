@@ -8,4 +8,3 @@ function characterCaseCheck(chr){
       else if(charCode >= 97 && charCode <=122) return "LowerCase Letter"
       else return "Not a letter"
 }
-
