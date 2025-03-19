@@ -7,3 +7,6 @@ function ageCategory(age){
         return `You are a senior Citizen`
     }
 }
+
+
+ 
