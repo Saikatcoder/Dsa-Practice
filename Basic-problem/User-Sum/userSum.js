@@ -24,4 +24,5 @@ function userSum(num1, num2) {
     return `${result[sum % 2]}: ${num1} + ${num2} = ${sum}`;
 }
 
+
 console.log(userSum(20,56));

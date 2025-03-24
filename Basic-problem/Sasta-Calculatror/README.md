@@ -31,3 +31,11 @@ function Calculator(num1, num2, operator) {
 }
 
 
+function calculatebill(unit){
+    let amount = 0;
+    if(unit>400){
+        amount +=(unit -400)*13;
+        unit =400;
+    }
+    if(unit>200&&)
+}
