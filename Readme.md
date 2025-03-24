@@ -1,4 +1,4 @@
-✅ Basic Level Problems (Must-Do)
+**✅ Basic Level Problems (Must-Do)
 1️⃣ Find the largest number in an array
 2️⃣ Find the smallest number in an array
 3️⃣ Calculate the sum of all elements in an array
@@ -32,7 +32,7 @@
 27️⃣ Find a subarray with a given sum
 28️⃣ Find the maximum product subarray
 29️⃣ Find the equilibrium index of an array
-30️⃣ Find the median of two sorted arrays
+30️⃣ Find the median of two sorted arrays**
 
 
 
